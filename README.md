@@ -1,12 +1,35 @@
 # quizly_app
 
-A new Flutter project.
+# Quizly App 🧠📱
 
-## Getting Started
+Quizly is a modern quiz application built with a clean **Dark Mode UI**. It uses **Shared Preferences** to save the selected theme, ensuring the theme remains unchanged even after restarting the app.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Dark Mode with persistent theme using Shared Preferences
+- Splash screen with app logo and start button
+- Start screen for quiz initiation
+- Interactive questions screen
+- Result screen showing quiz performance
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Shared Preferences
+
+## 📱 App Screens
+- Splash Screen
+- Start Screen
+- Questions Screen
+- Result Screen
+
+## 🚀 Purpose
+This project is developed to gain hands-on experience and practice Flutter UI design, state handling, and local data persistence.
+
+---
+
+Feel free to fork, explore, and improve the app!
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
