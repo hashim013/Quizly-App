@@ -23,7 +23,7 @@ Quizly is a modern quiz application built with a clean **Dark Mode UI**. It uses
 - Result Screen
 
 ## 🚀 Purpose
-This project is developed to gain hands-on experience and practice Flutter UI design, state handling, and local data persistence.
+This project is developed to gain hands-on experience and practice Flutter UI design, state handling, and local data persistence.git 
 
 ---
 
