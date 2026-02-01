@@ -1,4 +1,3 @@
-# quizly_app
 
 # Quizly App 🧠📱
 
